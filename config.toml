@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
 limit_days = 7
-cache_url = "https://xxmyf.github.io/MyArxiv/cache.json"
+cache_url = "https://cdn.jsdelivr.net/gh/xxmyf/MyArxiv@gh-pages/cache.json"
 
 [[sources]]
 limit = 150
