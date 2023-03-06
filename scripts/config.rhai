@@ -1,4 +1,4 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview","few","NER","Named Entity Recognition"];
+let titles_type = ["Dataset", "Survey", "Review", "Overview","few","NER","Named Entity Recognition","Low-resource"];
 let titles_model = ["BERT", "GPT", "Transformer"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
 let titles =  titles_model + titles_method + titles_type;
